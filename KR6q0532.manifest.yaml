@@ -21,17 +21,17 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0532_000.yaml, hash: 'sha256:8a97a2928f9740b40a4bb1633e3a42cbbeb1bc6080df54fd2617e414a1697516'}
+  - {seq: 0, filename: KR6q0532_000.yaml, hash: 'sha256:f90c72194fa721ceb722e4819a530fe05bb1a01bf56ce84d0bbea109a3f55da7'}
   - {seq: 1, filename: KR6q0532_001.yaml, hash: 'sha256:02a509b3b2dd09468c3080358a36bc6bbb1f422001b6d4afc87a6521aec8f073'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0532_000.markers.yaml, hash: 'sha256:b4877aef2bd6949352acfe299ea13e6475e80d43cac0508814ca534a2c5fcca2'}
+  - {seq: 0, role: markers, filename: assets/KR6q0532_000.markers.yaml, hash: 'sha256:c2b8b0c0afd79a51df6785e02bcbe90d192f9b382c8aa30605fcc8b20189a192'}
   - {seq: 1, role: markers, filename: assets/KR6q0532_001.markers.yaml, hash: 'sha256:414ef41758877dc2907af0db5d8f7dacee7e9a1af997a66af76619acdf23a3c2'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0532_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 請啟
@@ -397,7 +397,7 @@ table_of_contents:
   label: 和天封蜜蜂頌五和
   type: mulu
   level: 1
-hash: sha256:16d45d1b9fd862e8a3ebbe059cad48ac33ee01100e6305ea656c529fd941f2c4
+hash: sha256:f383b749e4c1d434703e2f89c61080d676d0310ca95ec26a6846520e73e71538
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
